@@ -22,6 +22,7 @@ Currently, that's assumed to be:
        - Only the initial conditions
        - The entire forecast
        - Random access to a specific forecast hour
+    - Merge of any separate datasets being written
     
 - Whole data use cases:
     - Calculate the spatial average of a variable at the initial time
